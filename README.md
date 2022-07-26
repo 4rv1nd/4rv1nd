@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cryptf0x
+- 👋 Hi, I’m @just-arvind
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning/Deep Learning.
 
